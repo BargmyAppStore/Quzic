@@ -2,4 +2,4 @@
 - Made By Samsung
 - Uploaded By Bargmy
 
-[Download](BargmyAppStore.github.io/Quzic/1/music.mp3)
+[Download](music.mp3)
